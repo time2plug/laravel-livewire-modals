@@ -1,6 +1,6 @@
 {
-    "name": "bastinald/laravel-livewire-modals",
-    "homepage": "https://github.com/bastinald/laravel-livewire-modals",
+    "name": "marcincook/laravel-livewire-modals",
+    "homepage": "https://github.com/marcincook/laravel-livewire-modals",
     "description": "Dynamic Laravel Livewire Bootstrap modals.",
     "license": "MIT",
     "authors": [
