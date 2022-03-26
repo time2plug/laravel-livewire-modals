@@ -35,12 +35,12 @@ Add the `livewire:modals` component to your app layout view:
 <script src="{{ asset('js/app.js') }}"></script>
 ```
 
-Require `../../vendor/bastinald/laravel-livewire-modals/resources/js/modals` in your app javascript file:
+Require `../../vendor/marcincook/laravel-livewire-modals/resources/js/modals` in your app javascript file:
 
 ```javascript
 require('@popperjs/core');
 require('bootstrap');
-require('../../vendor/bastinald/laravel-livewire-modals/resources/js/modals');
+require('../../vendor/marcincook/laravel-livewire-modals/resources/js/modals');
 ```
 
 ## Usage
