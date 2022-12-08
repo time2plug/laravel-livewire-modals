@@ -24,7 +24,7 @@ This package allows you to dynamically show your Laravel Livewire components ins
 Require the package:
 
 ```console
-composer require bastinald/laravel-livewire-modals
+composer require marcincook/laravel-livewire-modals
 ```
 
 Add the `livewire:modals` component to your app layout view:
